@@ -1,0 +1,16 @@
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\GraphUnitTesting.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\GraphUnitTesting.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\ARGraph.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\ARGraph.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\obj\Debug\GraphUnitTesting.csprojAssemblyReference.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\obj\Debug\GraphUnitTesting.csproj.CoreCompileInputs.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\obj\Debug\GraphUnitTesting.csproj.CopyComplete
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\obj\Debug\GraphUnitTesting.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\GraphUnitTesting\obj\Debug\GraphUnitTesting.pdb
